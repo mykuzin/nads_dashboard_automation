@@ -3,7 +3,7 @@ name: Transform NADS data and load to GS
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 21 * * *'
+    - cron: '25 20 * * *'
 permissions:
   contents: write
 
