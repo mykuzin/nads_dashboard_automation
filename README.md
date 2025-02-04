@@ -1,2 +1,2 @@
 # nads_dashboard_automation
-Automated data preparation of the NADS (UA) public data using GitHub Actions and Tableau Public
+Automated pipeline processing civil service data from the National Agency of Ukraine on Civil Service (НАДС) for quarterly dashboard reporting, covering 2021Q4 and 2024Q1 through present.
